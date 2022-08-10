@@ -1,5 +1,15 @@
 # README
 
+## First project with Ruby on Rails
+
+Working through the documentation on line
+<https://guides.rubyonrails.org/getting_started.html>
+
+Tinkering a little also as I go.
+
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
